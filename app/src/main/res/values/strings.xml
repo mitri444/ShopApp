@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Test App</string>
+
+    <string name="add_adress">Add address</string>
+    <string name="phones">Phones</string>
+    <string name="computer">Computer</string>
+    <string name="health">Health</string>
+    <string name="books">Books</string>
+    <string name="select_category">Select Category</string>
+    <string name="view_all">view all</string>
+    <string name="hot_sales">Hot sales</string>
+    <string name="see_more">see more</string>
+    <string name="buy_now">Buy now!</string>
+    <string name="best_seller">Best Seller</string>
+    <string name="done">Done</string>
+    <string name="filter_options">Filter options</string>
+    <string name="explore">Explorer</string>
+    <string name="favourites">favourites</string>
+    <string name="cart">cart</string>
+    <string name="person">person</string>
+
+
+
+
+
+
+
+
+    <string name="brand">Brand</string>
+    <string name="price">Price</string>
+    <string name="size">Size</string>
+    <array name="brands">
+        <item name="samsung">Samsung</item>
+        <item name="xiaomi">Xiaomi</item>
+        <item name="motorola">Motorola</item>
+    </array>
+    <array name="sizes">
+        <item name="size_first">4.5 to 5.5 inches</item>
+    </array>
+    <array name="prices">
+        <item name="price_first">$0 - $300</item>
+        <item name="price_second">$300 - $500</item>
+        <item name="price_third">$500 - $1000</item>
+        <item name="price_fourth">$1000 - $2500</item>
+        <item name="price_fifth">$2500 - $5000</item>
+        <item name="price_sixth">$5000 - $7500</item>
+        <item name="price_seventh">$7500 - $10000</item>
+    </array>
+
+    <string name="ecommerce_concept">Ecommerce Concept</string>
+    <string name="add_address">Add adress</string>
+</resources>
